@@ -1,3 +1,5 @@
+In class assignment to add Redux to practice adding Redux to a project
+
 # Redux Airport
 
 We're going to build an application to track planes at an airport.
